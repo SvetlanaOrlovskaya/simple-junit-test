@@ -32,7 +32,7 @@ public class JustTest {
         openUrl("http://www.google.com/xhtml");
         Thread.sleep(5000);  // Let the user actually see something!
 
-        searchFor("github");
+        searchFor("kittens");
         Thread.sleep(5000);  // Let the user actually see something
     }
 
